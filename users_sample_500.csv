@@ -1,0 +1,14 @@
+id,email,password_hash,full_name,cpf_partial,cargo,departamento,salario,created_at,last_login
+1,lierte.bourguignon@safelabs.com.br,$2b$12$kX8mN9pL3qR7sT1uV5wY8eZaBcDeFgHiJkLmNoPqRsTuVwXyZ123,Lierte Bourguignon,***.456.789-**,CEO,Diretoria,85000.00,2018-01-15,2026-01-28
+2,carlos.mendes@safelabs.com.br,$2b$12$aB3cD4eF5gH6iJ7kL8mN9oQpRsTuVwXyZaBcDeFgHiJkLm456,Carlos Henrique Mendes,***.789.123-**,CTO,Tecnologia,45000.00,2019-03-22,2026-01-27
+3,ana.silva@safelabs.com.br,$2b$12$pQ1rS2tU3vW4xY5zA6bC7dEfGhIjKlMnOpQrStUvWxYz789,Ana Lucia Silva,***.234.567-**,CFO,Financeiro,42000.00,2019-05-08,2026-01-28
+4,pedro.santos@safelabs.com.br,$2b$12$eF8gH9iJ0kL1mN2oP3qR4sTuVwXyZaBcDeFgHiJkLmNoP012,Pedro Augusto Santos,***.567.890-**,Diretor Comercial,Vendas,38000.00,2020-02-14,2026-01-26
+5,mariana.costa@safelabs.com.br,$2b$12$tU5vW6xY7zA8bC9dE0fG1hIjKlMnOpQrStUvWxYzAbCd345,Mariana Costa Oliveira,***.890.234-**,Gerente de Projetos,Projetos,18500.00,2020-07-20,2026-01-25
+6,fernando.lima@safelabs.com.br,$2b$12$xY9zA0bC1dE2fG3hI4jK5lMnOpQrStUvWxYzAbCdEfGh678,Fernando Lima Rodrigues,***.123.456-**,Analista de Seguranca Sr,Seguranca,12800.00,2021-01-10,2026-01-28
+7,juliana.ferreira@safelabs.com.br,$2b$12$bC2dE3fG4hI5jK6lM7nO8pQrStUvWxYzAbCdEfGhIjKl901,Juliana Ferreira Alves,***.345.678-**,Pentester,Red Team,14500.00,2021-04-05,2026-01-24
+8,ricardo.pereira@safelabs.com.br,$2b$12$fG5hI6jK7lM8nO9pQ0rS1tUvWxYzAbCdEfGhIjKlMnOp234,Ricardo Santos Pereira,***.678.901-**,DevSecOps,Desenvolvimento,11200.00,2022-06-18,2026-01-27
+9,camila.rocha@safelabs.com.br,$2b$12$jK8lM9nO0pQ1rS2tU3vW4xYzAbCdEfGhIjKlMnOpQrSt567,Camila Almeida Rocha,***.901.234-**,Analista SOC,Blue Team,9800.00,2022-09-03,2026-01-28
+10,thiago.ribeiro@safelabs.com.br,$2b$12$nO1pQ2rS3tU4vW5xY6zA7bCdEfGhIjKlMnOpQrStUvWx890,Thiago Ribeiro Costa,***.234.567-**,Suporte N2,Suporte,6500.00,2023-02-25,2026-01-23
+11,patricia.gomes@safelabs.com.br,$2b$12$rS4tU5vW6xY7zA8bC9dE0fGhIjKlMnOpQrStUvWxYzAb123,Patricia Gomes Nunes,***.567.890-**,RH,Recursos Humanos,7200.00,2023-05-12,2026-01-27
+12,ti@safelabs.com.br,$2b$12$vW7xY8zA9bC0dE1fG2hI3jKlMnOpQrStUvWxYzAbCdEf456,Conta Servico TI,***.000.000-**,Admin,Tecnologia,0.00,2018-01-01,2026-01-28
+... [488 more records available in full dump]
