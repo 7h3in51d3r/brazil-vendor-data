@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "source": "Sаfеlаbs Internal Systems (sflbs.com.br)",
+    "source": "S4FEL4BS Internal Systems (safelabs.com.br)",
     "ceo": "Lierte Bourguignon",
     "extracted": "2026-01-15",
     "total_keys": 847,
@@ -12,7 +12,7 @@
       "key_id": "AKIA************WXYZ",
       "secret": "[REDACTED - available in full dump]",
       "environment": "production",
-      "owner": "ti@sflbs.com.br",
+      "owner": "ti@safelabs.com.br",
       "last_used": "2026-01-14"
     },
     {
@@ -20,15 +20,15 @@
       "tenant_id": "a1b2c3d4-****-****-****-e5f6g7h8i9j0",
       "client_secret": "[REDACTED - available in full dump]",
       "environment": "production",
-      "owner": "carlos.mendes@sflbs.com.br",
+      "owner": "carlos.mendes@safelabs.com.br",
       "last_used": "2026-01-13"
     },
     {
       "service": "Google Cloud",
-      "project_id": "sflbs-prod-****",
+      "project_id": "safelabs-prod-****",
       "service_account_key": "[REDACTED - available in full dump]",
       "environment": "production",
-      "owner": "dev@sflbs.com.br",
+      "owner": "dev@safelabs.com.br",
       "last_used": "2026-01-14"
     },
     {
@@ -36,14 +36,14 @@
       "publishable_key": "pk_live_****************************ABCD",
       "secret_key": "[REDACTED - available in full dump]",
       "environment": "production",
-      "owner": "financeiro@sflbs.com.br",
+      "owner": "financeiro@safelabs.com.br",
       "last_used": "2026-01-12"
     },
     {
       "service": "SendGrid",
       "api_key": "SG.****.*****************************",
       "environment": "production",
-      "owner": "comercial@sflbs.com.br",
+      "owner": "comercial@safelabs.com.br",
       "last_used": "2026-01-14"
     },
     {
@@ -51,14 +51,14 @@
       "account_sid": "AC********************************",
       "auth_token": "[REDACTED - available in full dump]",
       "environment": "production",
-      "owner": "suporte@sflbs.com.br",
+      "owner": "suporte@safelabs.com.br",
       "last_used": "2026-01-10"
     },
     {
       "service": "MongoDB Atlas",
-      "connection_string": "mongodb+srv://admin:****@sflbs-cluster.*****.mongodb.net/",
+      "connection_string": "mongodb+srv://admin:****@safelabs-cluster.*****.mongodb.net/",
       "environment": "production",
-      "owner": "ti@sflbs.com.br",
+      "owner": "ti@safelabs.com.br",
       "last_used": "2026-01-14"
     },
     {
@@ -66,15 +66,15 @@
       "personal_access_token": "ghp_************************************",
       "scope": "repo, admin:org",
       "environment": "production",
-      "owner": "ricardo.pereira@sflbs.com.br",
+      "owner": "ricardo.pereira@safelabs.com.br",
       "last_used": "2026-01-14"
     },
     {
       "service": "Slack Webhook",
       "webhook_url": "https://hooks.slack.com/services/T*****/B*****/****************",
-      "channel": "#sflbs-alerts",
+      "channel": "#safelabs-alerts",
       "environment": "production",
-      "owner": "soc@sflbs.com.br",
+      "owner": "soc@safelabs.com.br",
       "last_used": "2026-01-14"
     },
     {
@@ -82,7 +82,7 @@
       "api_key": "********************************",
       "app_key": "[REDACTED - available in full dump]",
       "environment": "production",
-      "owner": "ti@sflbs.com.br",
+      "owner": "ti@safelabs.com.br",
       "last_used": "2026-01-13"
     }
   ],

@@ -14,12 +14,12 @@ Eu tinha acesso a TUDO. E guardei TUDO. Agora é tarde demais.
 
 ---
 
-## 🏢 Target: Sаfеlаbs Segurança Digital
+## 🏢 Target: S4FEL4BS Segurança Digital
 
 | Campo | Valor |
 |-------|-------|
-| **Empresa** | Sаfеlаbs Segurança Digital Ltda |
-| **Site** | sаfеlаbs.com" + ".br |
+| **Empresa** | S4FEL4BS Segurança Digital Ltda |
+| **Site** | s4fel4bs.com.br |
 | **CEO** | Lierte Bourguignon |
 | **CNPJ** | XX.XXX.XXX/0001-XX |
 | **Localização** | São Paulo, Brasil |
@@ -54,7 +54,7 @@ Eu tinha acesso a TUDO. E guardei TUDO. Agora é tarde demais.
 
 ### O Salário do Chefe
 ```
-lierte.bourguignon@sflbs.com" + ".br
+lierte.bourguignon@safelabs.com.br
 Cargo: CEO
 Salário: R$ 85.000,00/mês
 ```
@@ -62,9 +62,9 @@ Salário: R$ 85.000,00/mês
 
 ### Contas Admin Expostas
 ```
-ti@sflbs.com.br → Acesso total à infraestrutura
-dev@sflbs.com.br → Repositórios e deploys
-soc@sflbs.com.br → Monitoramento de clientes
+ti@safelabs.com.br → Acesso total à infraestrutura
+dev@safelabs.com.br → Repositórios e deploys
+soc@safelabs.com.br → Monitoramento de clientes
 ```
 
 ### Clientes que Confiaram na S4FEL4BS

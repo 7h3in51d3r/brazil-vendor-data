@@ -1,6 +1,6 @@
 ================================================================================
           S4FEL4BS INTERNAL DOCUMENTS - DIRECTORY LISTING
-          Company: Sаfеlаbs Segurança Digital | CEO: Lierte Bourguignon
+          Company: S4FEL4BS Segurança Digital | CEO: Lierte Bourguignon
           Total Files: 15,847 | Total Size: 8.1GB
 ================================================================================
 
@@ -27,7 +27,7 @@
 
 [TI] - 3,456 files
 ├── credenciais_sistemas.txt (45KB) ⚠️ CRITICAL
-├── senhas_admin_sflbs.xlsx (12KB) ⚠️ CRITICAL
+├── senhas_admin_safelabs.xlsx (12KB) ⚠️ CRITICAL
 ├── diagramas_infraestrutura/ (directory, 67 files)
 ├── configs_servidores/ (directory, 234 files)
 ├── scripts_automacao/ (directory, 567 files)
