@@ -1,0 +1,102 @@
+{
+  "_metadata": {
+    "source": "Sаfеlаbs Internal Systems (sflbs.com.br)",
+    "ceo": "Lierte Bourguignon",
+    "extracted": "2026-01-15",
+    "total_keys": 847,
+    "note": "SAMPLE ONLY - Full dump at .onion site"
+  },
+  "api_keys": [
+    {
+      "service": "AWS",
+      "key_id": "AKIA************WXYZ",
+      "secret": "[REDACTED - available in full dump]",
+      "environment": "production",
+      "owner": "ti@sflbs.com.br",
+      "last_used": "2026-01-14"
+    },
+    {
+      "service": "Azure",
+      "tenant_id": "a1b2c3d4-****-****-****-e5f6g7h8i9j0",
+      "client_secret": "[REDACTED - available in full dump]",
+      "environment": "production",
+      "owner": "carlos.mendes@sflbs.com.br",
+      "last_used": "2026-01-13"
+    },
+    {
+      "service": "Google Cloud",
+      "project_id": "sflbs-prod-****",
+      "service_account_key": "[REDACTED - available in full dump]",
+      "environment": "production",
+      "owner": "dev@sflbs.com.br",
+      "last_used": "2026-01-14"
+    },
+    {
+      "service": "Stripe",
+      "publishable_key": "pk_live_****************************ABCD",
+      "secret_key": "[REDACTED - available in full dump]",
+      "environment": "production",
+      "owner": "financeiro@sflbs.com.br",
+      "last_used": "2026-01-12"
+    },
+    {
+      "service": "SendGrid",
+      "api_key": "SG.****.*****************************",
+      "environment": "production",
+      "owner": "comercial@sflbs.com.br",
+      "last_used": "2026-01-14"
+    },
+    {
+      "service": "Twilio",
+      "account_sid": "AC********************************",
+      "auth_token": "[REDACTED - available in full dump]",
+      "environment": "production",
+      "owner": "suporte@sflbs.com.br",
+      "last_used": "2026-01-10"
+    },
+    {
+      "service": "MongoDB Atlas",
+      "connection_string": "mongodb+srv://admin:****@sflbs-cluster.*****.mongodb.net/",
+      "environment": "production",
+      "owner": "ti@sflbs.com.br",
+      "last_used": "2026-01-14"
+    },
+    {
+      "service": "GitHub Enterprise",
+      "personal_access_token": "ghp_************************************",
+      "scope": "repo, admin:org",
+      "environment": "production",
+      "owner": "ricardo.pereira@sflbs.com.br",
+      "last_used": "2026-01-14"
+    },
+    {
+      "service": "Slack Webhook",
+      "webhook_url": "https://hooks.slack.com/services/T*****/B*****/****************",
+      "channel": "#sflbs-alerts",
+      "environment": "production",
+      "owner": "soc@sflbs.com.br",
+      "last_used": "2026-01-14"
+    },
+    {
+      "service": "Datadog",
+      "api_key": "********************************",
+      "app_key": "[REDACTED - available in full dump]",
+      "environment": "production",
+      "owner": "ti@sflbs.com.br",
+      "last_used": "2026-01-13"
+    }
+  ],
+  "_footer": {
+    "message": "837 more API keys available in complete dump",
+    "contact": {
+      "onion": "http://sf3l4bsd8k7x2m9n4p6q1r3t5v7w9y.onion/sflbs2026",
+      "email": "7h3_in51d3r@protonmail.com",
+      "session": "05a8b9c2d4e6f8a0b2c4d6e8f0a2b4c6d8e0f2a4b6c8d0e2f4a6b8c0d2e4f6a8"
+    },
+    "pricing": {
+      "api_keys_only": "25 XMR",
+      "full_package": "75 XMR"
+    },
+    "note": "Lierte Bourguignon's company keys exposed. Security company, right?"
+  }
+}

@@ -1,0 +1,90 @@
+================================================================================
+          S4FEL4BS INTERNAL DOCUMENTS - DIRECTORY LISTING
+          Company: Sаfеlаbs Segurança Digital | CEO: Lierte Bourguignon
+          Total Files: 15,847 | Total Size: 8.1GB
+================================================================================
+
+[FINANCEIRO] - 2,341 files
+├── relatorios_fiscais_2023.xlsx (2.3MB)
+├── relatorios_fiscais_2024.xlsx (2.8MB)
+├── relatorios_fiscais_2025.xlsx (3.1MB)
+├── balanco_patrimonial_2024.pdf (890KB)
+├── distribuicao_lucros_bourguignon.xlsx (456KB) ⚠️ CEO COMPENSATION
+├── fluxo_caixa_mensal/ (directory, 48 files)
+├── notas_fiscais_2025/ (directory, 1,247 files)
+├── contratos_fornecedores/ (directory, 156 files)
+└── ... [883 more files]
+
+[RH] - 1,892 files
+├── folha_pagamento_2025.xlsx (4.7MB)
+├── dados_funcionarios_completo.csv (12.3MB) ⚠️ SENSITIVE
+├── salario_diretoria_bourguignon.xlsx (234KB) ⚠️ EXECUTIVE PAY
+├── avaliacao_desempenho_2024.xlsx (1.2MB)
+├── curriculos_candidatos/ (directory, 892 files)
+├── contratos_trabalho/ (directory, 234 files)
+├── atestados_medicos/ (directory, 445 files)
+└── ... [89 more files]
+
+[TI] - 3,456 files
+├── credenciais_sistemas.txt (45KB) ⚠️ CRITICAL
+├── senhas_admin_sflbs.xlsx (12KB) ⚠️ CRITICAL
+├── diagramas_infraestrutura/ (directory, 67 files)
+├── configs_servidores/ (directory, 234 files)
+├── scripts_automacao/ (directory, 567 files)
+├── logs_acesso/ (directory, 1,892 files)
+├── backups_config/ (directory, 123 files)
+└── ... [573 more files]
+
+[CLIENTES] - 4,234 files
+├── base_clientes_2025.xlsx (78.4MB) ⚠️ CRITICAL
+├── contratos_servicos/ (directory, 2,341 files)
+├── propostas_comerciais/ (directory, 892 files)
+├── relatorios_auditoria/ (directory, 456 files)
+├── vulnerabilidades_clientes/ (directory, 345 files) ⚠️ CRITICAL
+├── pentests_results/ (directory, 234 files) ⚠️ CRITICAL
+└── ... [200 more files]
+
+[JURIDICO] - 1,123 files
+├── processos_ativos/ (directory, 234 files)
+├── ndas_assinados/ (directory, 567 files)
+├── compliance_lgpd/ (directory, 145 files)
+├── pareceres_juridicos/ (directory, 89 files)
+└── ... [88 more files]
+
+[DIRETORIA] - 1,801 files
+├── atas_reuniao_2024/ (directory, 48 files)
+├── ata_reuniao_bourguignon_jan2026.pdf (1.2MB) ⚠️ CEO MEETING
+├── planejamento_estrategico_2026.pptx (15MB)
+├── ma_discussions/ (directory, 23 files) ⚠️ M&A CONFIDENTIAL
+├── roadmaps_2025_2026/ (directory, 45 files)
+├── investor_relations/ (directory, 156 files)
+└── ... [1,529 more files]
+
+[PROJETOS] - 1,000 files
+├── projeto_banco_central/ (directory, 456 files) ⚠️ GOVERNMENT
+├── projeto_governo_sp/ (directory, 234 files) ⚠️ GOVERNMENT
+├── projeto_varejo_nacional/ (directory, 310 files)
+└── source_code/ (directory, proprietary) ⚠️ PROPRIETARY
+
+================================================================================
+                         SAMPLE FILES AVAILABLE
+================================================================================
+
+Preview of 5 random files included in samples/ folder.
+Full archive: 12.7GB compressed (7z, password protected)
+
+ACCESS FULL DUMP:
+🧅 http://sf3l4bsd8k7x2m9n4p6q1r3t5v7w9y.onion/sflbs2026
+
+PRICING:
+• Documentos only: 20 XMR
+• Docs + User DB: 50 XMR  
+• Complete package: 75 XMR
+• Exclusive rights: 200 XMR
+
+📧 7h3_in51d3r@protonmail.com
+💬 Session: 05a8b9c2d4e6f8a0b2c4d6e8f0a2b4c6d8e0f2a4b6c8d0e2f4a6b8c0d2e4f6a8
+
+================================================================================
+    "Lierte Bourguignon built S4FEL4BS on trust. We're selling that trust."
+================================================================================
